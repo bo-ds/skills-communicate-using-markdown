@@ -2,9 +2,16 @@
 Adding headers
 
 # Test 2
-Adding an image
+Adding images
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+* Gracehoppertocat
+![Image of Gracehoppertocat](https://octodex.github.com/images/gracehoppertocat.jpg)
+
+* Kimonotocat
+![Image of Kimonotocat](https://octodex.github.com/images/kimonotocat.png)
+
+* OctoLiberty
+![Image of OctoLiberty](https://octodex.github.com/images/octoliberty.png)
 
 # Test 3
 Add a code example
