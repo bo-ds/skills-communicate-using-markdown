@@ -11,3 +11,8 @@ Add a code example
 ``` javascript
 var myVar = "Hello, world!";
 ```
+
+# Test 4
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
