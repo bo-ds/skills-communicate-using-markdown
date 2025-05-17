@@ -1,4 +1,7 @@
 # Test 1
-test
+Adding headers
+
 # Test 2
-test
+Adding an image
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
